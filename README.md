@@ -102,4 +102,4 @@ Get in touch  here on Github.
 
 
 -   Huge thanks to https://github.com/WeAreAthlon for inspiring this work.
-- Please if you like and find my efforts useful please do star this repo. It means a lot to me.
+- Please if you like and find my efforts useful  do star this repo. It means a lot to me.

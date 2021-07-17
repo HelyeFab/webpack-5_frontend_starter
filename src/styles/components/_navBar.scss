@@ -1,0 +1,20 @@
+.navBar{
+    display: flex;
+    background-color: #4756DF;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    &__logo{
+        padding: .5rem;
+        background-color: rgb(212, 211, 211);
+        border-radius: 10px;
+    }
+
+    &__menu ul {
+        display: flex;
+        li {
+            padding: 1rem;
+        }
+    }
+}

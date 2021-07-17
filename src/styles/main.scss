@@ -1,0 +1,28 @@
+
+
+
+
+@use'./base/_base.scss';
+@use'./base/_fonts.scss';
+
+/*TComponents*/
+@use'./components/_navBar.scss';
+@use'./components/_footer.scss';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn{
+    @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider bg-green-200
+}
+
+.btn.btn-large{
+    font-size: 3rem;
+}
+
+
+
+

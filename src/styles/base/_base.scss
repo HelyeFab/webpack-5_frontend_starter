@@ -1,0 +1,25 @@
+#root {
+    font-size: 2rem;
+    color: #f57979;
+    background-color: rgb(13, 45, 66);
+
+}
+
+body {
+    font-family:'Montserrat';  
+}
+
+.example {
+      background-color: aquamarine;
+      color: white;
+      font-size: 1.6rem;
+  }
+
+  .img__container{
+      width: 20rem;
+      height: 20rem;
+      img {
+          display: block;
+          width: 100%;
+      }
+  }

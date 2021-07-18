@@ -1,13 +1,13 @@
 .navBar{
     display: flex;
-    background-color: #4756DF;
+    background-color: #1C78BF;
     color: white;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
     &__logo{
         padding: .5rem;
-        background-color: rgb(212, 211, 211);
+        background: linear-gradient(to right, #ff5e62, #ff9966);
         border-radius: 10px;
     }
 

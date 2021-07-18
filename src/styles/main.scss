@@ -5,9 +5,13 @@
 @use'./base/_base.scss';
 @use'./base/_fonts.scss';
 
-/*TComponents*/
+/*Components*/
 @use'./components/_navBar.scss';
 @use'./components/_footer.scss';
+
+/*Animations*/
+@use'./animations/_spin.scss';
+
 
 
 @tailwind base;

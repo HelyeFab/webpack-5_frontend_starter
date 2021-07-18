@@ -3,7 +3,7 @@
   "name": "Beano Web Design|Webpack Boilerplate",
   "website": "https://beanowebdesign.com/",
   "version": "1.0.0",
-  "description": "Starter project template boilerplate based on Webpack with SASS/PostCSS and babel ES6/7 support.",
+  "description": "Starter project  boilerplate based on Webpack with SASS/PostCSS and babel ES6/7 support.",
   "homepage": "",
   "browserslist": [
     "last 2 versions",

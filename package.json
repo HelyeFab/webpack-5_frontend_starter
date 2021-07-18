@@ -1,6 +1,6 @@
 {
   "author": "EFabiani",
-  "name": "Beano Web Design|Webpack Boilerplate",
+  "name": "bwd_webpack_boilerplate",
   "website": "https://beanowebdesign.com/",
   "version": "1.0.0",
   "description": "Starter project  boilerplate based on Webpack with SASS/PostCSS and babel ES6/7 support.",
